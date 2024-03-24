@@ -88,6 +88,3 @@ Le script affichera les données YAML dans la console et les sauvegardera égale
 ## Conclusion
 
 Ce script simplifie le processus de conversion de données JSON en YAML. Pour des transformations de données plus complexes, envisagez d'étendre le script ou d'utiliser des outils plus avancés adaptés à vos besoins spécifiques.
-```
-
-Ce `README.md` fournit un guide complet pour quiconque a besoin d'exécuter le script, y compris la configuration, l'exécution, et le contexte supplémentaire.
