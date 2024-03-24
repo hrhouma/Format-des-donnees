@@ -1,0 +1,180 @@
+********************************
+// code 1 
+********************************
+
+{
+    "nom":"Estein",
+    "prénom":"ALbert",
+    "n° vol":"45622",
+    "Nbr bagages":"2",
+    "N° client":"154565"
+}
+
+********************************
+// code 2 
+********************************
+
+[
+    {
+        "nom": "Einstein",
+        "prénom": "Albert",
+        "n° vol": 75906,
+        "Nbr bagages": 0,
+        "N° client": 858547,
+        "adresse": {
+          "Num_CIV": 42,
+          "Rue": "Rue du Commerce",
+          "CP": "75015"
+        }
+      },
+    {
+        "nom": "Estein",
+        "prénom": "ALbert",
+        "n° vol": "45622",
+        "Nbr bagages": "2",
+        "N° client": "154565"
+    },
+    {
+        "nom": "Estein",
+        "prénom": "ALbert",
+        "n° vol": "45622",
+        "Nbr bagages": "2",
+        "N° client": "154565"
+    }
+]
+
+********************************
+// code 3 
+********************************
+ 
+ [
+    {
+        "nom": "Einstein",
+        "prénom": "Albert",
+        "n° vol": 75906,
+        "Nbr bagages": 0,
+        "N° client": 858547,
+        "adresse": {
+          "Num_CIV": 42,
+          "Rue": "Rue du Commerce",
+          "CP": "75015"
+        }
+      },
+    {
+        "nom": "Estein",
+        "prénom": "ALbert",
+        "n° vol": "45622",
+        "Nbr bagages": "2",
+        "N° client": "154565"
+    },
+    {
+        "nom": "Estein",
+        "prénom": "ALbert",
+        "n° vol": "45622",
+        "Nbr bagages": "2",
+        "N° client": "154565"
+    }
+]
+ 
+ 
+ ********************************
+// code 4
+********************************
+ 
+ 
+ [
+    {
+        "nom": "Einstein",
+        "prénom": "Albert",
+        "n° vol": 45622,
+        "Nbr bagages": 2,
+        "N° client": 154565,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            },
+            {
+                "Num_CIV": "42",
+                "Rue": "Rue de Rivoli",
+                "CP": "75001"
+            },
+            {
+                "Num_CIV": "75",
+                "Rue": "Rue du Faubourg Saint-Antoine",
+                "CP": "75011"
+            }
+        ]
+    },
+    {
+        "nom": "Lavoisier",
+        "prénom": "Antoine",
+        "n° vol": 45644,
+        "Nbr bagages": 4,
+        "N° client": 235002,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            }
+        ]
+    },
+    {
+        "nom": "Raimbault",
+        "prénom": "Arthur",
+        "n° vol": 12896,
+        "Nbr bagages": 2,
+        "N° client": 544552,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            }
+        ]
+    },
+    {
+        "nom": "Poincaré",
+        "prénom": "Henri",
+        "n° vol": 45644,
+        "Nbr bagages": 3,
+        "N° client": 781201,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            }
+        ]
+    },
+    {
+        "nom": "Lavoisier",
+        "prénom": "Antoine",
+        "n° vol": 45644,
+        "Nbr bagages": 1,
+        "N° client": 785154,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            }
+        ]
+    },
+    {
+        "nom": "Einstein",
+        "prénom": "Albert",
+        "n° vol": 75906,
+        "Nbr bagages": 0,
+        "N° client": 858547,
+        "adresses": [
+            {
+                "Num_CIV": "123",
+                "Rue": "Avenue des Champs-Élysées",
+                "CP": "75008"
+            }
+        ]
+    }
+]
