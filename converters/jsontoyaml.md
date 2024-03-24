@@ -1,6 +1,3 @@
-Voici un exemple de `README.md` en français, incluant les instructions pour exécuter le script Python qui convertit des données JSON en format YAML. Vous pouvez enregistrer ces instructions dans un fichier `README.md` situé dans le même répertoire que votre script.
-
-```markdown
 # Convertisseur JSON vers YAML
 
 Ce script Python prend des données JSON en entrée et les convertit au format YAML, le rendant plus facile à lire et à modifier. Cela peut être particulièrement utile pour transformer des fichiers de configuration ou des formats d'échange de données en un format plus convivial.
