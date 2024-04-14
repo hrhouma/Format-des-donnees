@@ -16,7 +16,8 @@ Données initiales:
   | Poincaré  | Henri     | 45644  | 3           | 781201    |
   | Lavoisier | Antoine   | 45644  | 1           | 785154    |
   | Einstein  | Albert    | 75906  | 0           | 858547    |
-Instructions:
+
+### Instructions:
   - Utilisez les données fournies pour créer une représentation YAML.
 
 ### Exercice 2 : Ajout d'Informations d'Adresse
@@ -67,14 +68,13 @@ Objectif: Modifier la structure YAML pour permettre plusieurs adresses pour un p
       CP: "75002"
 ```
 
-Résultat attendu:
+### Résultat attendu:
   - Pour l'exercice 1: Un document YAML représentant la table initiale.
   - Pour l'exercice 2: Le même document YAML avec des adresses ajoutées pour chaque passager.
   - Pour l'exercice 3: Le document YAML modifié pour montrer plusieurs adresses pour certains passagers.
 
-Visualisation:
+### Visualisation:
   - Utilisez un éditeur YAML en ligne ou un outil de validation pour vérifier la structure de votre document YAML après chaque exercice.
-```
 
 
 
